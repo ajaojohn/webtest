@@ -1,5 +1,8 @@
 $main : blue;
 
 p {
-    color: $main
+    font-weight: bold;
+    .world{
+        color : $main;
+    }
 }
